@@ -22,7 +22,9 @@ from https://github.com/UZ-SLAMLab/ORB_SLAM3
 
 * *VINet*       
 
-VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem.
+VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem.      
+
+from https://github.com/HTLife/VINet
 
 
 
